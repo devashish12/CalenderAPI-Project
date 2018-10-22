@@ -1,14 +1,14 @@
 var event = {
     'summary': 'testing',
     'location': 'Delhi India',
-    'description': 'A chance to hear more about Google\'s developer products.',
+    'description': 'testing Calender API',
     'start': {
       'dateTime': '2018-10-22T09:00:00-07:00',
-      'timeZone': 'America/Los_Angeles',
+      'timeZone': 'INDIA/NEW DELHI',
     },
     'end': {
       'dateTime': '2018-10-22T17:00:00-07:00',
-      'timeZone': 'America/Los_Angeles',
+      'timeZone': 'INDIA/NEW DELHI',
     },
     'recurrence': [
       'RRULE:FREQ=DAILY;COUNT=2'
